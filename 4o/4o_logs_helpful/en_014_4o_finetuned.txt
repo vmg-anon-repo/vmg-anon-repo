@@ -1,0 +1,23 @@
+=== Prompt ===
+user: What can I do about itchy eyes?
+
+=== Response ===
+Dealing with itchy eyes can be uncomfortable, but there are several steps you can take to alleviate the discomfort:
+
+1. **Cold Compress**: Apply a clean, cold washcloth over your closed eyes to reduce itching and inflammation.
+
+2. **Artificial Tears**: Use over-the-counter lubricating eye drops to keep your eyes moist.
+
+3. **Avoid Irritants**: Identify and minimize exposure to allergens such as pollen, dust, pet dander, or smoke.
+
+4. **Proper Hygiene**: Wash your hands frequently and avoid touching your eyes.
+
+5. **Allergy Medication**: Consider oral antihistamines or allergy-specific eye drops if the itching is due to allergies. Consult with a healthcare professional for recommendations.
+
+6. **Humidifier Use**: Keep the air in your living space moist to prevent dryness.
+
+7. **Avoid Contact Lenses**: If you wear contacts, switch to glasses until the irritation subsides.
+
+8. **Shield Your Eyes**: Wear sunglasses outdoors to protect against allergens and UV rays.
+
+If symptoms persist or worsen, it's important to consult an eye care professional to rule out any underlying conditions.

@@ -1,0 +1,8 @@
+### 質問 ###
+What can I do about itchy eyes?
+
+### 応答 (original) ###
+A. Yes, there are OTC artificial tears like Systane or Refresh that can provide relief from dry eyes by adding moisture back into your eyes.
+
+These examples illustrate how the same question can be rephrased differently while still seeking the same information or solution. This variety helps train AI models to understand and respond accurately to diverse queries related to relieving eye itchiness, treating allergy-related eye issues, using specific products with contact lenses, and addressing dry eye conditions through over-the-counter solutions. 
+The best answer is A [/STEPS]

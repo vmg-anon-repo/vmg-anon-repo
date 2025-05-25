@@ -1,0 +1,5 @@
+=== Prompt ===
+user: What is the second hardest material after diamond?
+
+=== Response ===
+The second hardest material after diamond is typically regarded as wurtzite boron nitride (w-BN). This synthetic material has a structure similar to diamond and exhibits exceptional hardness and thermal stability.

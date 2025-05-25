@@ -1,0 +1,11 @@
+### 質問 ###
+What is GoFundMe?
+
+### 応答 (dpo) ###
+GoFundMe is a crowdfunding platform that allows individuals to raise money for personal causes, charitable projects, and community initiatives. It was founded in 2010 and has since become one of the largest and most popular crowdfunding platforms in the world.
+
+On GoFundMe, users can create campaigns to raise funds for a wide range of purposes, such as medical expenses, education, disaster relief, memorials, and community development projects. Campaigns can be shared on social media, and donors can contribute any amount they choose, with some campaigns offering rewards or incentives for larger donations.
+
+GoFundMe takes a small percentage of each donation as a fee, but it does not charge campaign organizers any upfront costs. The platform also offers a guarantee that donations will be used for their intended purpose, and it provides tools and resources to help campaign organizers manage their fundraising efforts effectively.
+
+Overall, GoFundMe has become an important tool for people to come together and support one another in times of need, and it has helped to facilitate countless acts of kindness and generosity around the world.

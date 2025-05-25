@@ -1,0 +1,25 @@
+### 質問 ###
+I just bought an iPhone, but I've been using Android. What do I need to do to switch over?
+
+### 応答 (original) ###
+You're switching from Android to iOS! That's a big change, but don't worry, it's relatively easy to transfer your data and get started with your new iPhone. Here's a step-by-step guide to help you make the transition:
+
+1. **Backup your Android device**: Before you start, make sure to backup your Android phone's data, including contacts, photos, and apps, to Google Drive or another cloud storage service. This will ensure that your data is safe and can be easily transferred to your new iPhone.
+2. **Transfer your SIM card (if applicable)**: If you're using a physical SIM card, remove it from your Android phone and insert it into your new iPhone. If you're using an eSIM or have a different carrier setup, contact your carrier for assistance.
+3. **Set up your iPhone**: Turn on your iPhone and follow the on-screen instructions to set up your device. You'll need to choose your language, country or region, and Wi-Fi network.
+4. **Restore from iCloud or iTunes (if you had an old iPhone)**: If you're upgrading from an older iPhone, you can restore your data from an iCloud or iTunes backup. If you're coming from Android, skip this step.
+5. **Use the Move to iOS app**: Apple provides a free app called "Move to iOS" that helps you transfer data from your Android device to your new iPhone. Download the app on your Android phone and follow the in-app instructions to transfer your:
+	* Contacts
+	* Photos
+	* Videos
+	* Music
+	* Books
+	* Documents
+	* Email accounts
+6. **Set up your email accounts**: If you didn't use the Move to iOS app, you'll need to set up your email accounts manually on your iPhone. Go to Settings > Mail > Accounts > Add Account and follow the prompts to add your email accounts.
+7. **Download iOS versions of your favorite apps**: Many popular Android apps have iOS counterparts. Search for your favorite apps in the App Store and download them on your iPhone.
+8. **Get familiar with iOS**: Take some time to explore your new iPhone and learn about its features, such as Siri, Control Center, and Notification Center.
+9. **Sync your music and podcasts**: If you have music or podcasts on your Android device, you can sync them to your iPhone using iTunes or a third-party service like Google Play Music.
+10. **Enjoy your new iPhone!**: Congratulations! You've successfully switched from Android to iOS. Explore your new device, and don't hesitate to reach out if you have any questions or need further assistance.
+
+Remember, it may take some time to get used to the new interface and features of your iPhone, but with a little patience and practice, you'll be navigating like a pro in no time!

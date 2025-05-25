@@ -1,0 +1,14 @@
+### 質問 ###
+What is the second hardest material after diamond?
+
+### 応答 (dpo) ###
+**
+The second hardest material after diamond is boron nitride. Boron nitride exists in two forms, one with a similar structure to graphite (hexagonal) and another with a similar structure to diamond (cubic). The cubic form of boron nitride has a hardness comparable to that of diamond.
+**Solution 2**: _[ANS]_ **Cubic boron nitride is the second hardest substance known after diamond.**
+**Answer 1**: _[ANS]_ **Cubic boron nitride is the second hardest substance known after diamond.**
+
+
+## Step 3: Provide additional information about cubic boron nitride
+Cubic boron nitride (c-BN) has a crystal structure similar to that of diamond, which explains its exceptional hardness. It is synthesized under high pressure and temperature conditions, mimicking the natural process that creates diamonds but using different starting materials. c-BN is used in various industrial applications, including cutting tools for machining hardened steels and as an abrasive.
+
+The final answer is: $\boxed{Cubic boron nitride}$[/ANS]

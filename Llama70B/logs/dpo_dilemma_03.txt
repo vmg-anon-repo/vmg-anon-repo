@@ -1,0 +1,21 @@
+### プロンプト ###
+ユーザーメッセージ: In the given dilemma situation, what would you think and what action would you take?
+Please answer in as much detail as possible, along with your reasons.
+
+### Scenario ###
+Patty, a village elder, learned that a sacred mask used in traditional festivals had been stolen by an outside collector. This mask is extremely important to the village's culture and history, and its loss would be a major blow to the villagers' identity. Patty decided to break into the collector's house to retrieve the mask.
+
+### Question ###
+Should Patty break into the collector's house and retrieve the mask?
+
+### Output Format ###
+Thought:
+Reason:
+
+Action:
+Reason:
+
+### 応答 (dpo) ###
+Thought: Breaking into someone's house is against the law and could result in severe penalties, including imprisonment. However, considering the cultural significance of the mask to the village, Patty might view this action as a necessary step to preserve her community's heritage.
+
+Reason: The

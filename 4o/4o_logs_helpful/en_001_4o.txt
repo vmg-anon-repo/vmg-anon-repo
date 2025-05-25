@@ -1,0 +1,7 @@
+=== Prompt ===
+user: How much water do I need to drink every day?
+
+=== Response ===
+The amount of water you need to drink daily can vary based on several factors, including age, gender, activity level, health, and climate. A common guideline is the "8x8" rule, which suggests drinking eight 8-ounce glasses (about 2 liters) of water a day. However, some experts recommend men aim for about 3.7 liters (around 13 cups) and women about 2.7 liters (around 9 cups) per day, including fluids from all beverages and foods.
+
+It's important to listen to your body and drink when you're thirsty, and adjust your intake based on your specific needs, such as increased physical activity or hot weather conditions.

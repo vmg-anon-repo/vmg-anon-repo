@@ -1,0 +1,10 @@
+=== Prompt ===
+user: How much water do I need to drink every day?
+
+=== Response ===
+The amount of water you need daily can vary based on several factors, including your age, gender, activity level, climate, and overall health. A general guideline is:
+
+- **Men**: About 3.7 liters (or roughly 13 cups) per day.
+- **Women**: About 2.7 liters (or roughly 9 cups) per day.
+
+These amounts include all fluids consumed, not just water. It's important to listen to your body—thirst is a natural indicator of your hydration needs. Additionally, factors like exercise, hot weather, or illness may increase your requirements. Always consider personal circumstances and consult with a healthcare provider for tailored advice.

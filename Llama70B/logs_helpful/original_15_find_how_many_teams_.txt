@@ -1,0 +1,7 @@
+### 質問 ###
+Find how many teams are in the NHL?
+
+### 応答 (original) ###
+**
+
+There are currently 32 teams in the National Hockey League (NHL).

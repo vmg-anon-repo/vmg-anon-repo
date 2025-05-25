@@ -1,0 +1,5 @@
+=== Prompt ===
+user: What is the second hardest material after diamond?
+
+=== Response ===
+The second hardest known material after diamond is often considered to be wurtzite boron nitride (w-BN). This material has a structure similar to diamond and exhibits exceptional hardness under certain conditions. Another contender for extreme hardness is lonsdaleite, also known as hexagonal diamond. Both materials are harder than traditional cubic boron nitride, which is itself extremely hard.

@@ -1,0 +1,29 @@
+=== Prompt ===
+user: How do I make a mug cake?
+
+=== Response ===
+Making a mug cake is quick and easy! Here's a simple recipe for a classic chocolate mug cake:
+
+### Ingredients:
+- 4 tablespoons all-purpose flour
+- 4 tablespoons granulated sugar
+- 2 tablespoons unsweetened cocoa powder
+- 1/8 teaspoon baking powder
+- A pinch of salt
+- 3 tablespoons milk
+- 2 tablespoons vegetable oil
+- 1/2 teaspoon vanilla extract
+- Optional: 1 tablespoon chocolate chips or a small piece of chocolate
+
+### Instructions:
+1. **Mix Dry Ingredients:** In a microwave-safe mug, combine the flour, sugar, cocoa powder, baking powder, and salt. Stir well to ensure there are no lumps.
+
+2. **Add Wet Ingredients:** Add the milk, vegetable oil, and vanilla extract to the dry mixture. Stir until the batter is smooth and fully combined.
+
+3. **Add Chocolate (Optional):** If using, stir in the chocolate chips or press a small piece of chocolate into the center of the batter.
+
+4. **Microwave:** Microwave the mug on high for about 1 to 1 1/2 minutes. The cake should rise and appear set, but be careful not to overcook it. Microwave times may vary, so start checking at the 1-minute mark.
+
+5. **Cool and Enjoy:** Let the mug cake cool for a minute or two before enjoying. You can top it with a scoop of ice cream, a dollop of whipped cream, or a drizzle of chocolate sauce if desired.
+
+Enjoy your delicious, quick dessert!

@@ -1,0 +1,5 @@
+=== Prompt ===
+user: Find how many teams are in the NHL?
+
+=== Response ===
+The NHL has 32 teams.

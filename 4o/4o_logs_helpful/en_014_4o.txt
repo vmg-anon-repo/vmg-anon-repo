@@ -1,0 +1,27 @@
+=== Prompt ===
+user: What can I do about itchy eyes?
+
+=== Response ===
+Dealing with itchy eyes can be uncomfortable, but there are several steps you can take to find relief. Here are some suggestions:
+
+1. **Avoid Triggers**: Identify and avoid allergens like pollen, dust mites, or pet dander that might be causing the itchiness.
+
+2. **Cold Compress**: Apply a clean, damp, and cold washcloth over your closed eyes for a few minutes to reduce irritation and swelling.
+
+3. **Artificial Tears**: Use over-the-counter lubricating eye drops to keep your eyes moist and flush out irritants.
+
+4. **Antihistamine Drops**: Consider using antihistamine eye drops if allergies are the culprit.
+
+5. **Avoid Rubbing**: Refrain from rubbing your eyes, as this can worsen irritation and lead to infection.
+
+6. **Clean Environment**: Keep your living area clean by dusting regularly and using air purifiers to reduce allergens.
+
+7. **Hydration**: Stay well-hydrated to ensure your eyes produce enough tears.
+
+8. **Limit Screen Time**: Take breaks from screens to prevent eye strain and dryness.
+
+9. **Wear Sunglasses**: Protect your eyes from pollen and other outdoor irritants by wearing wraparound sunglasses when outside.
+
+10. **Consult a Doctor**: If symptoms persist or worsen, consult an eye care professional for further evaluation and treatment.
+
+Always consider consulting a healthcare professional if you're unsure about the cause or if the problem persists.

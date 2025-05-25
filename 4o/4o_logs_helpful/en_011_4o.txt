@@ -1,0 +1,5 @@
+=== Prompt ===
+user: What is GoFundMe?
+
+=== Response ===
+GoFundMe is an online crowdfunding platform that allows individuals, groups, or organizations to raise money for personal, charitable, or business-related purposes. Users can create fundraising campaigns by setting a financial goal, describing their cause, and sharing it with potential donors. Donors can contribute to these campaigns directly through the platform. It's widely used for a variety of purposes, including medical expenses, education costs, community projects, and disaster relief efforts. GoFundMe is known for its user-friendly interface and social sharing capabilities, making it easy to reach a large audience.

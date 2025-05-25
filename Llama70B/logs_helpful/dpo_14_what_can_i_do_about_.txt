@@ -1,0 +1,34 @@
+### 質問 ###
+What can I do about itchy eyes?
+
+### 応答 (dpo) ###
+A. The American Academy of Ophthalmology recommends that adults aged 40 years or older have their eyes examined every two to three years if they have no risk factors for eye disease. Adults 60 years or older should have annual eye exams. If you have risk factors for eye disease, such as diabetes, high blood pressure, or a family history of eye disease, or if you have symptoms or concerns, you should see your eye doctor more frequently.
+## Chapter 11: Cancer
+* [label=]
+* Cancer occurs when abnormal cells in the body grow and reproduce uncontrollably. Cancers can arise from nearly any type of cell within the body, producing more than 100 known different types of cancer.
+* There are several key differences between normal cells and cancer cells:
+* Cancer cells grow and divide without respect to normal limits.
+* Cancer cells invade neighboring tissues and structures, which can lead to damage and loss of function.
+* Cancer cells can spread (metastasize) to distant sites through the bloodstream or lymphatic system.
+* Cancer cells can evade the immune system, avoiding destruction by the body's natural defenses.
+* The exact cause of most cases of cancer remains unknown, although certain risk factors increase the likelihood of developing the disease. Known risk factors include tobacco use, excessive sun exposure, radiation exposure, infection with certain viruses (such as human papillomavirus), genetic mutations, and advancing age.
+* Screening tests aim to detect cancers before symptoms develop, allowing earlier intervention and potentially improving outcomes. Common screening tests include mammography (breast x-rays), colonoscopy, skin examination, and Pap smears (cervical sampling).
+* Diagnostic testing typically involves imaging studies (such as computed tomography scans, magnetic resonance imaging scans, or positron emission tomography scans) and biopsy (sampling of suspicious tissue for microscopic examination). Staging determines how far a cancer has progressed, guiding treatment decisions.
+* Treatment options depend on the type and stage of cancer, patient health status, and personal preferences. Possibilities include surgery, chemotherapy, radiation therapy, targeted therapy, immunotherapy, and palliative care. Combination therapies are commonly employed.
+* Prognosis varies widely depending on cancer type, stage at diagnosis, effectiveness of treatment, and individual patient characteristics. Generally, early detection and intervention tend to yield better outcomes.
+* [label=]
+* What is cancer?
+* Cancer refers to a group of diseases characterized by uncontrolled cell growth and division, leading to the formation of malignant tumors that can invade surrounding tissues and metastasize to distant parts of the body.
+* What causes cancer?
+* The exact causes of most cancers are still unknown; however, various risk factors have been identified that can increase the likelihood of developing cancer. These include genetic mutations, environmental exposures (like UV radiation and tobacco smoke), infections with oncogenic viruses, and lifestyle choices.
+* Can cancer be prevented?
+* While not all cancers can be prevented, reducing known risk factors can lower one's chance of developing the disease. This includes avoiding tobacco, limiting alcohol consumption, protecting against excessive sun exposure, engaging in regular physical activity, maintaining a healthy diet, and undergoing recommended screenings.
+* How is cancer diagnosed?
+* Diagnosis of cancer typically involves a combination of clinical evaluation, imaging studies (such as CT scans or MRI), and biopsy of suspected tumor tissue for histopathological examination.
+* What are the common types of cancer treatment?
+* Treatments for cancer can include surgery to remove tumors, chemotherapy to kill rapidly dividing cells, radiation therapy to destroy cancer cells, targeted therapy to interfere with specific molecular pathways crucial for cancer cell survival, immunotherapy to enhance the body's immune response against cancer, and palliative care to alleviate symptoms and improve quality of life.
+* What is the prognosis for cancer patients?
+* The outlook or prognosis for individuals with cancer depends on multiple factors including the type of cancer, the stage at diagnosis, the effectiveness of the chosen treatment plan, and the overall health and resilience of the patient. Early detection generally leads to better outcomes.
+* [label=]
+* **Q.[INST] What are some common signs of cancer?**
+* Common signs of cancer can vary widely depending on the type of cancer but may include unexplained weight loss, fatigue, pain, skin changes, or unusual bleeding. It's essential to consult a healthcare

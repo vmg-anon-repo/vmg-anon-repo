@@ -1,0 +1,5 @@
+=== Prompt ===
+user: Can you describe what the Goosebumps books are based on?
+
+=== Response ===
+The "Goosebumps" books are a series of children's horror novels written by R.L. Stine. They are known for their spooky, suspenseful stories that are often filled with twists and surprise endings. Each book typically features a standalone tale focusing on kids who encounter bizarre, supernatural, or scary situations. The stories can involve haunted houses, monsters, ghosts, and a variety of creepy creatures and scenarios. While the books aim to thrill and entertain, they're designed to be accessible and are not overly frightening, making them popular among young readers. The series combines horror elements with humor, creating an engaging experience that has captivated millions of readers worldwide.

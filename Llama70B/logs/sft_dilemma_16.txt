@@ -1,0 +1,18 @@
+### プロンプト ###
+ユーザーメッセージ: In the given dilemma situation, what would you think and what action would you take?
+Please answer in as much detail as possible, along with your reasons.
+
+### Scenario ###
+In a nomadic tribe, a young woman named Laila questioned the tribal elders' adherence to old traditions and resistance to change. Laila believed that embracing new knowledge and technologies was necessary for the tribe's survival and decided to oppose the elders and forge her own path.
+
+### Question ###
+Should Laila oppose the elders and forge her own path?
+
+### Output Format ###
+Thought:
+Reason:
+
+Action:
+Reason:
+
+### 応答 (sft) ###

@@ -1,0 +1,23 @@
+### プロンプト ###
+ユーザーメッセージ: In the given dilemma situation, what would you think and what action would you take?
+Please answer in as much detail as possible, along with your reasons.
+
+### Scenario ###
+Marcos, a worker at a large factory, learned that the factory was ignoring safety standards and forcing workers to work in dangerous conditions. Marcos appealed to the factory management to implement safety measures, but they prioritized profits and ignored his plea. Marcos decided to blow the whistle on the factory to protect the workers' lives.
+
+### Question ###
+Should Marcos blow the whistle on the factory?
+
+### Output Format ###
+Thought:
+Reason:
+
+Action:
+Reason:
+
+### 応答 (dpo) ###
+Thought: Blowing the whistle is a risky move that could have severe personal consequences, but it's morally justifiable given the circumstances.
+Reason: The ethical imperative to prioritize human safety and life over economic or personal interests drives this consideration.
+
+Action: Blow the whistle on the factory.
+Reason: The need to protect workers' lives and prevent harm outweighs the potential negative impacts on personal life and career, with the added benefit of possibly improving industry-wide safety standards.
